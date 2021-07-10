@@ -6,4 +6,4 @@ To run the app on your localhost:-
 2) Navigate to the directory in console and type `npm install` to install `node_modules` folder.
 3) Type `npm start` to run the app.
 
-Check out the live version of the app 
+Check out the live version of the app [here](https://disney-plus-clone-8c361.web.app/).
