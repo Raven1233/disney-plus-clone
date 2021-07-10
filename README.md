@@ -7,3 +7,4 @@ To run the app on your localhost:-
 3) Type `npm start` to run the app.
 
 Check out the live version of the app [here](https://disney-plus-clone-8c361.web.app/).
+Remember to log out of the live version, after you are done seeing.
